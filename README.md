@@ -34,7 +34,7 @@ I would like to thank the [@MQLHERO](https://twitter.com/MQLHERO) for giving me 
 ヒーロー協会の皆様，いつもありがとうございます！！
 
 # Reference / 参考記事
-[LINE Notify API Document(]https://notify-bot.line.me/doc/ja/)
+[LINE Notify API Document](https://notify-bot.line.me/doc/ja/)
 
 [いまさら聞けないHTTPマルチパートフォームデータ送信](https://satox.hatenadiary.jp/entry/20110726/1311665904)
 
