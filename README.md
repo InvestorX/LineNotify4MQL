@@ -23,10 +23,20 @@ MetaTrader 4 for Windows
 # Authors / 著者
 [@lnvestorX](https://twitter.com/lnvestorX)
 
-# License / ライセンス
-LineNotify4MQL is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+# LICENSE "THE SUSHI-WARE LICENSE" / ライセンス
 
-LineNotify4MQLは，MITライセンスです。
+[InvestroX](https://twitter.com/lnvestorX) wrote this file.
+
+As long as you retain this notice you can do whatever you want
+with this stuff. If we meet some day, and you think this stuff
+is worth it, you can buy me a **sushi 🍣** in return.
+
+(This license is based on ["THE BEER-WARE LICENSE" (Revision 42)].
+ Thanks a lot, Poul-Henning Kamp ;)
+ 
+ あなたには，ぼくに寿司を奢る権利があります。
+
+​["THE BEER-WARE LICENSE" (Revision 42)]: https://people.freebsd.org/~phk/
 
 # Acknowledgments / 謝辞
 I would like to thank the [@MQLHERO](https://twitter.com/MQLHERO) for giving me this opportunity.
